@@ -52,7 +52,7 @@ To use this tool, you'll need to obtain your Instagram follower and following da
    - Run `npm install` to install the necessary dependencies.
 
 3. **Run the Checker**:
-   - Execute `npm start` to start the checker.
+   - Execute `npm start` or `node index.js` to start the checker.
    - The tool will process the data and generate `followingBack.txt` and `notFollowingBack.txt` files in the project directory.
 
 ## Usage
